@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "195612296091",
+    "project_id": "cloud-message-alarm",
+    "storage_bucket": "cloud-message-alarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195612296091:android:b85cd89b8a79e1adc8173e",
+        "android_client_info": {
+          "package_name": "com.clonecoding.clouldmessagealarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195612296091-ot1obc5v99a6eqh963kfhtlnkjt016mt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clonecoding.clouldmessagealarm",
+            "certificate_hash": "a9edf9cf6bf81cf99b850663a7245ebdd108a25b"
+          }
+        },
+        {
+          "client_id": "195612296091-fbiaeu9cfvkg6n3u9mbjqu1p1aas9a0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjzvQaY9yO_H6J1EoggqPVPhgriWx3-Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195612296091-fbiaeu9cfvkg6n3u9mbjqu1p1aas9a0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
